@@ -1,0 +1,9 @@
+{
+  "name": "GemKey AI Keyboard",
+  "description": "A smart virtual keyboard experience inspired by Android's KeyboardView, featuring AI-powered text completion, grammar correction, and tone adjustment using Google Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "clipboard-read"
+  ]
+}
